@@ -81,7 +81,7 @@ flowchart TD
 
 ✔ Implementado internamente
 ✔ Validado com usuários
-✔ Executando via Power Platform
+✔ Executando via Power Automate
 ⚠ Código e prints internos não disponibilizados por política corporativa
 
 ---
@@ -91,7 +91,7 @@ flowchart TD
 * Integração entre ferramentas Microsoft 365
 * Construção de bots com Copilot Studio
 * Automação orientada a fluxos corporativos
-* Modelagem de processos com transcrição de áudio
+* Modelagem de processos com transcrição da reunião
 * Documentação técnica + requisitos de negócio
 
 ---
